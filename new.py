@@ -9,4 +9,7 @@ elif z==10:
     print("the sum is equal to 10")
 elif z<10:
     print("the sum is less than 10")
+
+print("a small change")
+
     
